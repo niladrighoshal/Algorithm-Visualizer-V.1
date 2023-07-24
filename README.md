@@ -33,4 +33,5 @@ Algorithms Visualizer is a tool for visualizing Fundamental Algorithms in Sortin
 1. Clone this project: ```git clone https://github.com/niladrighoshal/Algorithm-Visualizer-V.1```
 2. Install dependencies: ```cd ./Algorithm-Visualizer-V.1 && npm install```
 3. Run locally: ```npm run dev```
+
 Once you have done building by using the command  ```npm run dev``` the next time you have to do ```npm start``` (While your present working directory should be the project directory).
