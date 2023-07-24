@@ -5,6 +5,7 @@
 Try it your self [Algorithm Visualizer v1.0](https://ng-algorithm-visualizer.netlify.app)
 
 ## Visualizers
+  ### SORTING VIZUALIZER ###
 
 - [Sorting Visualizer](https://ng-algorithm-visualizer.netlify.app/sorting)
 
