@@ -2,21 +2,21 @@
 
 ### An interactive visualization tool for fundamental algorithms in sorting, searching and path-finding.
 
-Try it your self [Algorithm Visualizer v1.0](https://n.g-algorithm-visualizer.netlify.app)
+Try it your self [Algorithm Visualizer v1.0](https://ng-algorithm-visualizer.netlify.app)
 
 ## Visualizers
 
-- [Sorting Visualizer](https://n.g-algorithm-visualizer.netlify.app/sorting)
+- [Sorting Visualizer](https://ng-algorithm-visualizer.netlify.app/sorting)
 
-[![Sorting Visualizer](./public/sorting_banner.png)](https://n.g-algorithm-visualizer.netlify.app/sorting)
+[![Sorting Visualizer](./public/sorting_banner.png)](https://ng-algorithm-visualizer.netlify.app/sorting)
 
-- [Searching Visualizer](https://n.g-algorithm-visualizer.netlify.app/searching)
+- [Searching Visualizer](https://ng-algorithm-visualizer.netlify.app/searching)
 
-[![Searching Visualizer](./public/searching_banner.png)](https://n.g-algorithm-visualizer.netlify.app/searching)
+[![Searching Visualizer](./public/searching_banner.png)](https://ng-algorithm-visualizer.netlify.app/searching)
 
-- [Path Finding Visualizer](https://n.g-algorithm-visualizer.netlify.app/path-finding)
+- [Path Finding Visualizer](https://ng-algorithm-visualizer.netlify.app/path-finding)
 
-[![Path Finding Visualizer](./public/path_finding_banner.png)](https://n.g-algorithm-visualizer.netlify.app/path-finding)
+[![Path Finding Visualizer](./public/path_finding_banner.png)](https://ng-algorithm-visualizer.netlify.app/path-finding)
 
 
 ## About the App
