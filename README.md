@@ -1,4 +1,4 @@
-[![Algorithm Visualizer v1.0](./public/Algorithm-visualizer-banner.gif)]
+[Algorithm Visualizer v1.0](./public/Algorithm-visualizer-banner.gif)
 
 ### An interactive visualization tool for fundamental algorithms in sorting, searching, and path-finding.
 
