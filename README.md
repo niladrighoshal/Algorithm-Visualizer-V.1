@@ -11,9 +11,13 @@ Try it your self [Algorithm Visualizer v1.0](https://ng-algorithm-visualizer.net
 
 [![Sorting Visualizer](./public/sorting_banner.png)](https://ng-algorithm-visualizer.netlify.app/sorting)
 
+  ### SEARCHING VIZUALIZER ###
+
 - [Searching Visualizer](https://ng-algorithm-visualizer.netlify.app/searching)
 
 [![Searching Visualizer](./public/searching_banner.png)](https://ng-algorithm-visualizer.netlify.app/searching)
+
+  ### PATH FINDING VIZUALIZER ###
 
 - [Path Finding Visualizer](https://ng-algorithm-visualizer.netlify.app/path-finding)
 
