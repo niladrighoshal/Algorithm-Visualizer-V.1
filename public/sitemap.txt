@@ -1,3 +1,3 @@
-https://n.g-algorithm-visualizer.netlify.app/sorting
-https://n.g-algorithm-visualizer.netlify.app/searching
-https://n.g-algorithm-visualizer.netlify.app/path-finding
+https://ng-algorithm-visualizer.netlify.app/sorting
+https://ng-algorithm-visualizer.netlify.app/searching
+https://ng-algorithm-visualizer.netlify.app/path-finding
