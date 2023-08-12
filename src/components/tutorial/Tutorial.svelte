@@ -14,7 +14,7 @@
 
         <br>
 
-        <p> Email me <a href="mailto:niladrighoshal.14@gmail.com?subject:Algorithm-Visualizer-V1.0%For%Contribution"> here </a> for any contribution. </p>
+        <p> Email me <a href="mailto:niladrighoshal.20@gmail.com?subject:Algorithm-Visualizer-V1.0%For%Contribution"> here </a> for any contribution. </p>
     </nav>
 </aside>
 
